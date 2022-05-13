@@ -114,3 +114,35 @@ img{
     padding-top: 2rem;
 }
 /** end of section 3**/
+
+/**start of section 4**/
+.boxes .box:first-child{
+    background-color: #2690d4;
+}
+.boxes .box{
+    padding: 1em 3.1em;
+}
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    background-color: #333;
+}
+.box-1, .box-2{
+    color: #fff;
+    padding: 1em;
+}
+.box-h1{
+    padding: 3rem 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.box-link{
+    color: #fff;
+    margin-top: 2rem;
+}
+.link{
+    padding-top: 3rem;
+}
+/**end of section 4**/
