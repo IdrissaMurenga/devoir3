@@ -45,3 +45,29 @@ header{
     background-color: #fff;
 }
 /**end of header**/
+
+/**main**/
+
+/**start of section 1**/
+.section-1{
+    background-color: #fff;
+}
+.inner-section-1{
+    text-align: center;
+    width: fit-content;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color: #333;
+}
+.section1-h1{
+    padding-bottom: 1rem;
+    font-weight: bold;
+    font-size: 1.75rem;
+}
+.section1-p{
+    padding-top: 1rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    columns: 350px 2;
+}
+/**end of section 1**/
