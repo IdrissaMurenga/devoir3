@@ -146,3 +146,23 @@ img{
     padding-top: 3rem;
 }
 /**end of section 4**/
+
+/**footer**/
+
+/**start of footer**/
+footer{
+    padding: 2rem 0;
+    color: #fff;
+    background-color: #000;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding:0 100px;
+}
+.footer-link{
+    text-decoration: none;
+    color: #2690d4;
+}
+/**end of footer**/
