@@ -114,3 +114,8 @@ img{
     padding-top: 2rem;
 }
 /** end of section 3**/
+
+/**start of section 4**/
+.boxes .box:first-child{
+    background-color: #2690d4;
+}
