@@ -8,3 +8,40 @@ body{
     max-width: 1120px;
     margin: 0 auto;
 }
+
+/**header**/
+
+/**start of header**/
+header{
+    height: 28rem;
+    background-size: cover;
+    background-image:linear-gradient(rgba(54, 52, 52, 0.548),rgba(54, 52, 52, 0.548)), url(/assets/images/code.png);
+}
+.inner-head{
+    padding: 8rem 0;
+}
+.h-1{
+    font-weight: bold;
+    font-size: 2rem;
+    
+}
+.header-p, .h-1{
+    padding-bottom: 2rem;
+    color: #fff;
+}
+.header-p{
+    padding-bottom: 3rem;
+}
+.button{
+    padding: 1em 2rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    border: 1px solid #666;
+    background-color: #333;
+    color: #fff;
+}
+.button:hover{
+    color: #000;
+    background-color: #fff;
+}
+/**end of header**/
