@@ -92,3 +92,10 @@ header{
     line-height: 1.5rem;
     padding: 2rem 3rem;
 }
+img{
+    width: 360px;
+}
+.card{
+    background-color: #fff;
+}
+/**end of section 2**/
