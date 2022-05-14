@@ -129,3 +129,12 @@ img{
     text-align: center;
     background-color: #333;
 }
+.box-1, .box-2{
+    color: #fff;
+    padding: 1em;
+}
+.box-h1{
+    padding: 3rem 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
