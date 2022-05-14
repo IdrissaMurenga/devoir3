@@ -119,3 +119,13 @@ img{
 .boxes .box:first-child{
     background-color: #2690d4;
 }
+.boxes .box{
+    padding: 1em 3.1em;
+}
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    background-color: #333;
+}
